@@ -58,6 +58,18 @@ li > a:hover {
   background-color: #ffd54f;
 }
 
+.home > a:active {
+  background-color: #ef7d7d;
+}
+
+.github > a:active {
+  background-color: #6ebfff;
+}
+
+.linkedin > a:active {
+  background-color: #ffdf59;
+}
+
 .home {
   border-top-color: #e57373;
 }
