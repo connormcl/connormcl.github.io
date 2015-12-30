@@ -1,5 +1,6 @@
 body {
   font-family: 'Abril Fatface';
+  text-align: center;
 }
 
 img {
@@ -11,9 +12,13 @@ img {
   display: block;
 }
 
-.name {
+h1 {
   font-size: 3rem;
-  text-align: center;
+}
+
+h2 {
+  font-size: 1.5rem;
+  padding-top: 3rem;
 }
 
 ul {
@@ -88,8 +93,12 @@ li > a:hover {
     margin-top: 7rem;
   }
 
-  .name {
+  h1 {
     font-size: 7rem;
+  }
+
+  h2 {
+    font-size: 3rem;
   }
 
   li > a {
